@@ -21,7 +21,11 @@ class ShoppingCart {
     }
 
     Boolean doesContain(String itemName) {
-        return items.contains(itemName);
+        if (items.contains(itemName)) {
+            return true;
+        } else {
+            throw new IllegalStateException("Item does not exists");
+        }
     }
 
     Double checkout() {
