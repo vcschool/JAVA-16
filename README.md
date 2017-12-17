@@ -1,6 +1,6 @@
 # JAVA-16
 
-1. Susikurti naują projektą su ShoppingCart klase ir ištestuoti visus jos metodus.
+1. Susikurti naują projektą su [ShoppingCart](https://github.com/vcschool/JAVA-16/blob/master/main/java/lt/vcs/cart/ShoppingCart.java) klase ir ištestuoti visus jos metodus.
 
 2. String Calculator (TDD)
 
