@@ -1,4 +1,4 @@
-package lt.vcs.coffemashine;
+package lt.vcs.cart;
 
 
 import java.util.ArrayList;
