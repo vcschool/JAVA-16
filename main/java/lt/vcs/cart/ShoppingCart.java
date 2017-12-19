@@ -43,4 +43,7 @@ class ShoppingCart {
         return total;
     }
 
+    void cleanItems() {
+        items.clear();
+    }
 }
